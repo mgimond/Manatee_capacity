@@ -19,3 +19,5 @@ The plot was generated under R `version 3.2.2 (2015-08-14)` and packages `scales
 
 ## GIS data
 The `GIS` folder houses GIS data analysis results presented in the referenced paper.
+
+[![DOI](https://zenodo.org/badge/42542774.svg)](https://zenodo.org/badge/latestdoi/42542774)
